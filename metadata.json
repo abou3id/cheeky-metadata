@@ -5,14 +5,8 @@
   "image": "https://raw.githubusercontent.com/abou3id/cheeky-metadata/main/cheeky-logo.png",
   "external_url": "https://github.com/abou3id/cheeky-metadata",
   "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Utility / Meme"
-    },
-    {
-      "trait_type": "Chain",
-      "value": "Solana"
-    }
+    { "trait_type": "Category", "value": "Utility / Meme" },
+    { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "category": "image",
