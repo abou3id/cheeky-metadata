@@ -2,8 +2,8 @@
   "name": "CHEEKY",
   "symbol": "CHKY",
   "description": "CHEEKY (CHKY) is the official token powering CHEEKY TOOLS — a playful Solana toolkit for creators and builders. Smirk, build, and ship.",
-  "image": "REPLACE_WITH_PUBLIC_IMAGE_URL",
-  "external_url": "https://REPLACE_WITH_YOUR_SITE",
+  "image": "https://raw.githubusercontent.com/abou3id/cheeky-metadata/main/cheeky-logo.png",
+  "external_url": "https://github.com/abou3id/cheeky-metadata",
   "attributes": [
     {
       "trait_type": "Category",
