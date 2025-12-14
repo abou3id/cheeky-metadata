@@ -18,7 +18,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "REPLACE_WITH_PUBLIC_IMAGE_URL",
+        "uri": "https://raw.githubusercontent.com/abou3id/cheeky-metadata/main/cheeky-logo.png",
         "type": "image/png"
       }
     ]
